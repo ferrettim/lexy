@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Lexy
+Exec=qmlscene %u qml/Main.qml --disable-gpu
+Icon=img/icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#34495e
+X-Ubuntu-Default-Department-ID=communication
+Name[nl_BE]=lexy.desktop
