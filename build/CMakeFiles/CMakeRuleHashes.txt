@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+e08c54177ee3dcc8957a9587e362a35d CMakeFiles/lexy.desktop
+fe244fac0fcd57416534e8b7c52980fa po/CMakeFiles/lexy.alexa.pot
+eda96dd922925848f7d6d56328291d8b po/CMakeFiles/pofiles_1
+fd69a8a8559387a02859b013b8029703 po/es.gmo

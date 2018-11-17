@@ -1,0 +1,17 @@
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/rebuild_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/edit_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/install.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/list_install_components.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/lexy.desktop.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/Lexy_ClickFiles.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/install/strip.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/CMakeFiles/install/local.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/install.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/list_install_components.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/rebuild_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/edit_cache.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/lexy.alexa.pot.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/pofiles.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/install/local.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/pofiles_1.dir
+/media/martin/Media/Documents/UbuntuTouch/lexy-master/build/po/CMakeFiles/install/strip.dir
