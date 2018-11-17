@@ -5,7 +5,7 @@ import Ubuntu.Components.Popups 1.3
 Dialog {
             id: aboutDialog
             visible: false
-            title: i18n.tr("About Lexy 1.0")
+            title: i18n.tr("About Lexy 1.1")
             text: i18n.tr("Lexy gives Ubuntu Touch users the ability to control Amazon Alexa enabled devices from their phone.")
 
             Text {
